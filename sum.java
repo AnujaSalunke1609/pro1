@@ -3,6 +3,6 @@ public class sum{
     {
         int a=5;
         int b=10;
-        Syatem.out.println("Sum :"+(a+b));
+        Syatem.out.println("the Sum :"+(a+b));
     }
 }
